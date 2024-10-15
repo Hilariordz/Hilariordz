@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola 👋, Soy Jose Hilario</h1>
-<h3 align="center">Estudiante de TI Apasionado | Explorando el Infinito Mundo de la Tecnología</h3>
+<h3 align="center">Estudiante de Desarrollo de Software Apasionado | Explorando el Infinito Mundo de la Tecnología</h3>
   
 <h2 align="left"> 💻 Lenguajes:</h2>
 
